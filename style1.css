@@ -1,0 +1,33 @@
+
+.users-box {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 1500px;
+    height: 1950px;
+}
+
+.user-block {
+    width: 600px;
+    height: 300px;
+    background-color: deepskyblue;
+    padding: 40px 40px 40px 100px;
+}
+
+.address-block {
+    color: white;
+}
+
+.wrap {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    width: 2500px;
+    height: 6000px;
+}
+
+.post-card {
+    width: 400px;
+    height: 200px;
+    background-color: deepskyblue;
+    padding: 40px 40px 40px 40px;
+    border: 5px solid black
+}
